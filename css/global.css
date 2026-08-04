@@ -48,6 +48,10 @@ section {
   margin: 0 auto;
 }
 
+section.hero {
+  width: 100%;
+}
+
 .section-title h2 {
   font-size: 28px;
   font-weight: var(--title-weight);
